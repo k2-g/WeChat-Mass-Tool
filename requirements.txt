@@ -1,0 +1,8 @@
+﻿PySide6==6.6.1
+uiautomation~=2.0.18
+chardet~=5.2.0
+pywin32>=306
+pyinstaller~=6.6.0
+WMI~=1.5.1
+cprint~=1.2.2
+comtypes
